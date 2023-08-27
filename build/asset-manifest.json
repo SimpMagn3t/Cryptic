@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cryptic/static/css/main.073c9b0a.css",
+    "main.js": "/cryptic/static/js/main.83031d02.js",
+    "static/media/btc.jpg": "/cryptic/static/media/btc.e8cd3b89d1d9ba742850.jpg",
+    "index.html": "/cryptic/index.html",
+    "main.073c9b0a.css.map": "/cryptic/static/css/main.073c9b0a.css.map",
+    "main.83031d02.js.map": "/cryptic/static/js/main.83031d02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.83031d02.js"
+  ]
+}
